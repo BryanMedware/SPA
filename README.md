@@ -1,9 +1,7 @@
 ### --------INSTRUÇÕES---------
-Abrir projeto pelo CMD
-
-Utilizar comando CD (nome da pasta "anvisa-medicamentos")
-
-Depois utilizar o comando npm start
+Abrir projeto pelo CMD \n
+Utilizar comando CD (nome da pasta "anvisa-medicamentos")\n
+Depois utilizar o comando npm start\n
 
 ### --------BIBLIOTECAS--------
 npm install react react-dom
