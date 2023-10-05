@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  button#scrollTopButton {
+    display: flex;
+    position: fixed;
+    right: 0;
+    margin-right: 10px;
+    bottom: 20px;
+    font-size: 22px;    
+    border: none;
+    background-color: #3498db;
+    color: white;
+    border-radius: 50%;
+    cursor: pointer;
+  }
+  
+  button#scrollTopButton:hover {
+    background-color: #2980b9;
+  }  
