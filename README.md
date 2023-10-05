@@ -1,5 +1,5 @@
 ## --------INSTRUÇÕES-------- ##
-+ Abrir projeto pelo CMD
++ Abrir projeto pelo CMD (Administrador)
 + Utilizar comando CD (nome da pasta "anvisa-medicamentos")
 + Depois utilizar o comando npm start
 
